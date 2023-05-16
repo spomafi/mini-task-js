@@ -1,0 +1,14 @@
+.main {
+    display: flex;
+    flex-direction: column;
+}
+
+.click-result {
+    margin-bottom: 10px;
+    width: 100px;
+}
+
+.input-lose {
+    margin-bottom: 10px;
+    width: 100px;
+}
